@@ -3,6 +3,16 @@
 	width: 800px;
 }
 
+.image {
+	height: 600px;
+	vertical-align: middle;
+}
+
+.description {
+	height: 600px;
+	vertical-align: middle;
+}
+
 #button {
   background-color: rgb(236, 116, 74);
   width: 400px;
