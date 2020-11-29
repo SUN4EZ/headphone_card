@@ -1,0 +1,13 @@
+.image, .description {
+	display: inline-block;
+	width: 800px;
+}
+
+#button {
+  background-color: rgb(236, 116, 74);
+  width: 400px;
+  height: 80px;
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+}
